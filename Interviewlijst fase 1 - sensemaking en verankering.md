@@ -28,7 +28,7 @@ Geen persoon maar een bron: retrospectief op één afgerond project dat Corneel 
 ## Spoor B, verankering en governance (aparte gesprekken, geen vier-stappen-leidraad)
 
 - [[Germaine Poot]], domeinlijn. Gezamenlijk gesprek (Corneel stuurt, ik in cc). Pas doorzetten als er een eigenaar is.
-- [[Bram Enning]], programmamanager AI & Data. Het opdrachtgever- en afnemergesprek: wie neemt het rapport aan, waaraan toetst hij het, gedraagt hij zich als opdrachtgever van de vier afstemrollen. Vult de open vraag "programmamanager AI & Data = wie?" uit de briefing-prep in.
+- [[Johannes Schleiss]], lead van het relatief nieuwe team Inzicht & Strategie in het AI- en datadomein, in de toekomst ook schakelpunt naar andere Npuls-domeinen.
 
 
 Gerelateerd: [[Plan van aanpak - Kwartiermaker Innovatiefunnel]] · [[Portfolio-stand CEDA juli 2026 (uit teampresentatie)]] · [[2026-07-06 Briefing-prep CEDA-opdracht Corneel]] · [[2026-07-02 Teamdag - CEDA]]
