@@ -7,7 +7,7 @@ Werkrepo voor het ontwerp van de innovatiefunnel voor het domein AI & Data: duid
 | Fase | Periode | Stand |
 |---|---|---|
 | Fase 1, sensemaking | juli tot september | Afgerond. Negen gesprekken en een synthese |
-| Fase 2, vormmaking | oktober tot november | Loopt. Werksessie met het team op 22 oktober; vervolg in november of december |
+| Fase 2, vormmaking | oktober tot november | Loopt. Werksessie met het team op 22 oktober; poorten doorgelopen met de coördinator op 2 november; vervolgsessie in december |
 | Fase 3, praktijktoets en rapport | november tot december | Nog niet gestart |
 
 Na de werksessie is de metrolijn uitgebreid naar drie lijnen: instrumentarium (de tools), standaarden (datamodellen en conventies) en sectorvoorziening (borging en beheer, ook na Npuls). Dat wordt in fase 2 verder uitgewerkt.
@@ -21,6 +21,8 @@ Na de werksessie is de metrolijn uitgebreid naar drie lijnen: instrumentarium (d
 | Wie we spraken in fase 1 | [plan/interviewlijst-fase-1.md](plan/interviewlijst-fase-1.md) |
 | Wat de gesprekken lieten zien | [fase-1-sensemaking/2026-09-fase-1-gesprekken-samenvatting.md](fase-1-sensemaking/2026-09-fase-1-gesprekken-samenvatting.md) |
 | De werksessie van 22 oktober | [fase-2-vormmaking/2026-10-22-werksessie-metrolijn.md](fase-2-vormmaking/2026-10-22-werksessie-metrolijn.md) |
+| De poorten, doorgelopen met de coördinator op 2 november | [fase-2-vormmaking/2026-11-02-poorten-met-coordinator.md](fase-2-vormmaking/2026-11-02-poorten-met-coordinator.md) |
+| De presentatie van 2 november (html) | [fase-2-vormmaking/2026-11-02-poorten-met-coordinator-presentatie.html](fase-2-vormmaking/2026-11-02-poorten-met-coordinator-presentatie.html) |
 | De presentatie van de werksessie | [fase-2-vormmaking/2026-10-22-werksessie-metrolijn-presentatie.pdf](fase-2-vormmaking/2026-10-22-werksessie-metrolijn-presentatie.pdf) |
 | Artefacten die nu in gebruik zijn | [werkdocumenten/artefact-inventaris.md](werkdocumenten/artefact-inventaris.md) |
 
