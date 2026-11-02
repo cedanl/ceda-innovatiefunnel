@@ -4,7 +4,7 @@ Na de werksessie van 22 oktober heeft de kwartiermaker op 2 november een uur met
 
 Het is een eerste poortversie en nog geen besluit. De poortwachters werken de details hierna verder uit, en ze mogen tegen alles ingaan wat hier staat. Reageren kan in deze notitie of via de kwartiermaker.
 
-Vertrekpunt: [de werksessie van 22 oktober](2026-10-22-werksessie-metrolijn.md). De presentatie die we samen doorliepen: [2026-11-02-poorten-met-coordinator-presentatie.html](2026-11-02-poorten-met-coordinator-presentatie.html). Download het bestand en open het in een browser; met de pijltjestoetsen blader je door de dia's.
+Vertrekpunt: [de werksessie van 22 oktober](2026-10-22-werksessie-metrolijn.md). De presentatie die we samen doorliepen staat als [pdf](2026-11-02-poorten-met-coordinator-presentatie.pdf) en als [html](2026-11-02-poorten-met-coordinator-presentatie.html). De pdf kun je op GitHub direct lezen. De html download je en open je in een browser; met de pijltjestoetsen blader je door de dia's.
 
 ## Voorstellen om de lijn aan te passen
 
